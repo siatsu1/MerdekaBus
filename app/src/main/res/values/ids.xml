@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="idUserTV" type="id" />
+    <item name="idBusTV" type="id" />
+    <item name="idAsalTV" type="id" />
+    <item name="idTujaunTV" type="id" />
+    <item name="tanggalTV" type="id" />
+    <item name="waktuAsal" type="id" />
+    <item name="waktuTujuanTV" type="id" />
+    <item name="namaAsalTV" type="id" />
+    <item name="namaBusTV" type="id" />
+    <item name="hargaTV" type="id" />
+</resources>
